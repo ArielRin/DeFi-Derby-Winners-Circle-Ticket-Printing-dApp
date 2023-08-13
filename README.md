@@ -3,14 +3,13 @@ Prize Money valued at $250 USD in BNB to be Won   Grab your Race Tickets for RAC
 
 
 
-![]https://github.com/ArielRin/defi-derby-race-1/blob/main/hero.png)
+![](https://github.com/ArielRin/defi-derby-race-1/blob/main/hero.png))
 
 ## Contract and dapp on BSC
 
 [Solidity File Here](https://github.com/cheynespc/Lastman_nft_minting_dapp/blob/main/LastManHoldingNFT.sol)
 
 
-[DAPP  test alpha (Netlify) here](https://fanciful-otter-5cc3f3.netlify.app/)
 
 [Lastman Main Page](https://lastmanstanding.info/)
 
@@ -31,9 +30,6 @@ lastmanNFT@gmail.com
 ![](https://github.com/cheynespc/Lastman_nft_minting_dapp/blob/main/banner.png)
 
 
-## Test Results of bonus Last NFT sold Remix EVM
-
-![](https://github.com/cheynespc/Lastman_nft_minting_dapp/blob/main/public/RemixLogtestFinalsale.png)
 
 ## Development Steps
 
