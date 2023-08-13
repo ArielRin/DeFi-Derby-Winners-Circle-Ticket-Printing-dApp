@@ -1,13 +1,13 @@
-# defi-derby-race-1
+## DeFi Derby Winners Circle Ticket Printing dApp 🔥
 Prize Money valued at $250 USD in BNB to be Won   Grab your Race Tickets for RACE 1. Tickets cost approx $5.00USD in BNB. Enjoy the ride! Proceeds to the value of $200USD will be donated to hope rescued on race completion.
 
 
 
-![](https://github.com/ArielRin/defi-derby-race-1/blob/main/hero.png))
+![](https://github.com/ArielRin/defi-derby-race-1/blob/main/hero.png)
 
 ## Contract and dapp on BSC
 
-[Solidity File Here](https://github.com/cheynespc/Lastman_nft_minting_dapp/blob/main/LastManHoldingNFT.sol)
+[Solidity File Here](https://github.com/ArielRin/defi-derby-race-1/blob/main/race1.sol)
 
 
 
