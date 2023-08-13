@@ -1,0 +1,85 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url('11.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #3498db;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
+
+
+.wallet-connect {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.wallet-connect button {
+  padding: 10px 15px;
+  font-size: 14px;
+  background-color: #2ecc71;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.wallet-connect button:hover {
+  background-color: #27ae60;
+}
+
+/* ...existing styles... */
+
+
+.logo {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.logo img {
+  max-width: 200px;
+}
+
+
+.payout-table {
+  margin-top: 20px;
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid #ccc;
+}
+
+.payout-table th, .payout-table td {
+  padding: 8px;
+  text-align: center;
+  border: 1px solid #ccc;
+}
+
+.payout-table th {
+  background-color: #f2f2f2;
+}

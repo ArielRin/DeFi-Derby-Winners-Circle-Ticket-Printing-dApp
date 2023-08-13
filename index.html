@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NFT Minting dApp</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+  <h1>DeFi Derby Winners Circle</h1>
+  <h2>RACE 1</h2>
+  <p>Grab your Race Ticket ready for RACE 1. Tickets cost approx $5.00USD in BNB. Enjoy the ride!</p>
+  <div class="header">
+    <div class="logo">
+      <img src="hope.jpg" alt="Logo">
+    </div>
+    <p>Proceeds to the value of $200USD will be donated to hope rescued on race completion</p>
+    <div class="wallet-connect">
+      <button id="connectButton">Connect Wallet</button>
+    </div>
+  </div>
+  <input type="number" id="quantity" placeholder="Enter quantity" max="99" min='1'>
+  <button id="mintButton">Print Ticket(s)</button>
+  <div id="message"></div>
+
+  <table class="payout-table">
+    <tr>
+      <th>Place</th>
+      <th>Winnings</th>
+    </tr>
+    <tr>
+      <td>1st Place</td>
+      <td>$150USD payed in BNB</td>
+    </tr>
+    <tr>
+      <td>2nd Place</td>
+      <td>$75USD payed in BNB</td>
+    </tr>
+    <tr>
+      <td>3rd Place</td>
+      <td>$25USD payed in BNB</td>
+    </tr>
+  </table>
+
+
+</div>
+
+
+
+
+
+
+  <script src="web3.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
