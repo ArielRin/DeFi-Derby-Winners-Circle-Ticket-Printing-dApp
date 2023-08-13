@@ -3,9 +3,9 @@ Prize Money valued at $250 USD in BNB to be Won   Grab your Race Tickets for RAC
 
 
 
-![](https://github.com/cheynespc/Lastman_nft_minting_dapp/blob/main/public/dappscreenshot.png)
+![]https://github.com/ArielRin/defi-derby-race-1/blob/main/hero.png)
 
-## Contract and dapp on BSC Testnet
+## Contract and dapp on BSC
 
 [Solidity File Here](https://github.com/cheynespc/Lastman_nft_minting_dapp/blob/main/LastManHoldingNFT.sol)
 
@@ -26,7 +26,7 @@ Prize Money valued at $250 USD in BNB to be Won   Grab your Race Tickets for RAC
 lastmanNFT@gmail.com
 
 
-# LastManHolding NFT minting dapp 🔥
+# DeFi Derby Winners Circle Ticket Printing dApp 🔥
 
 ![](https://github.com/cheynespc/Lastman_nft_minting_dapp/blob/main/banner.png)
 
@@ -94,5 +94,3 @@ Apply for verified listings at TofuNFT and OpenSea
 [ℹ️ Main Page](https://lastmanstanding.info)
 
 lastmanft@gmail.com
-
-
