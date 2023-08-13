@@ -13,7 +13,7 @@ body {
 
 .container {
   text-align: center;
-  background-color: #ffffff;
+  background-color: rgba(250, 250, 250, 0.6);
   padding: 20px;
   border-radius: 10px;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
@@ -22,7 +22,7 @@ body {
 button {
   padding: 10px 20px;
   font-size: 16px;
-  background-color: #3498db;
+  background-color: #2ecc71;
   color: #ffffff;
   border: none;
   border-radius: 5px;
@@ -30,7 +30,7 @@ button {
 }
 
 button:hover {
-  background-color: #2980b9;
+  background-color: #27ae60;
 }
 
 
@@ -67,17 +67,15 @@ button:hover {
 }
 
 
+
 .payout-table {
   margin-top: 20px;
   width: 100%;
-  border-collapse: collapse;
-  border: 1px solid #ccc;
 }
 
 .payout-table th, .payout-table td {
   padding: 8px;
   text-align: center;
-  border: 1px solid #ccc;
 }
 
 .payout-table th {
