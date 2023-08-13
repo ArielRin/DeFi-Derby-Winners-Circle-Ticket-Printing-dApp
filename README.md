@@ -31,10 +31,6 @@ lastmanNFT@gmail.com
 ![](https://github.com/cheynespc/Lastman_nft_minting_dapp/blob/main/banner.png)
 
 
-## Contracts Write Features
-
-![](https://github.com/cheynespc/Lastman_nft_minting_dapp/blob/main/public/Contractwritefeatures.png)
-
 ## Test Results of bonus Last NFT sold Remix EVM
 
 ![](https://github.com/cheynespc/Lastman_nft_minting_dapp/blob/main/public/RemixLogtestFinalsale.png)
